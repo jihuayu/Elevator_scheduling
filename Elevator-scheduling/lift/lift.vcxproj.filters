@@ -27,6 +27,9 @@
     <ClInclude Include="elevator.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="Elevator_.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stdafx.cpp">
@@ -36,6 +39,12 @@
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="passager.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Elevator.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Elevator_.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
